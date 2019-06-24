@@ -1,0 +1,16 @@
+//
+//  DemoPCH.pch
+//  PullUpAndDonwScrollDemo
+//
+//  Created by AlexGao on 2019/6/24.
+//  Copyright © 2019 AlexGao. All rights reserved.
+//
+
+#ifndef DemoPCH_pch
+#define DemoPCH_pch
+#import "UIView+AG_Frame.h"
+#define SCREENSIZE [[UIScreen mainScreen] bounds].size
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* DemoPCH_pch */
